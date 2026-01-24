@@ -38,7 +38,7 @@
 &trans  &trans  &trans  &trans        &trans  &trans                              &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans        &trans  &trans                              &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans        &trans  &trans  &kp ENTER    &trans         &trans  &trans  &trans  &trans  &trans  &trans
-                        &kp NUMBER_6  &kp N7  &kp N8  &kp SPACE    &kp BACKSPACE  &trans  &trans  &tog 0
+                        &kp NUMBER_6  &kp N7  &kp N8  &kp SPACE    &kp BACKSPACE  &trans  &trans  &tog 1
             >;
         };
 
